@@ -2,7 +2,7 @@
 
 # Define the Desktop path and Netforce directory
 DESKTOP_PATH="$HOME/Desktop"
-NETFORCE_DIR="$DESKTOP_PATH/Netforce"
+NETFORCE_DIR="$DESKTOP_PATH/netforce-extractor"
 VENV_DIR="$NETFORCE_DIR/venv"
 
 # Create the Netforce directory if it doesn’t exist
